@@ -1,10 +1,6 @@
 # mango.js
 A simple to use JS library
 ---
-原称其为 mango.js ！
-方便使用、处理部分兼容问题。
-
----
 
 实现的函数：
 
